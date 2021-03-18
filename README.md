@@ -1,8 +1,1 @@
-## Application for managing personal income and expenses.
-
-<p>
-Application for managing personal income and expenses.
-</p>
-<p>
-Website CRUD on local storage, using (Template Bootstrap 4 + HTML / CSS + JavaScript)
-</p>
+O sistema simula um controle financeiro, capaz de gerar despesas com seus lançamentos, realização de cálculos, interface gráfica agradável e de fácil acesso e com um belo gráfico abordando de forma geral todo status. Segue link para verificação: https://eduardo-ops.github.io/pocket-basic/
