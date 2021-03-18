@@ -1,1 +1,1 @@
-O sistema simula um controle financeiro, capaz de gerar despesas com seus lançamentos, realização de cálculos, interface gráfica agradável e de fácil acesso e com um belo gráfico abordando de forma geral todo status. Segue link para verificação: https://eduardo-ops.github.io/pocket-basic/
+O sistema simula um controle financeiro, capaz de gerar despesas com seus lançamentos, realização de cálculos, interface gráfica agradável de fácil acesso e um belo gráfico abordando de forma geral todo status. Segue link para verificação: https://eduardo-ops.github.io/pocket-basic/
